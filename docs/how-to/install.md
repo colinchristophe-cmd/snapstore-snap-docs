@@ -102,8 +102,6 @@ using `psql` as your PostgreSQL server **superuser**:
 
     CREATE EXTENSION "btree_gist";
 
-    CREATE EXTENSION "intarray";
-
 Simple local Ubuntu setup can look like this:
 
 1. Install PostgreSQL
